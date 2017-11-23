@@ -5,6 +5,10 @@ MashupAwards2017の1st Stage（東京２部）の作品です。
 # MA作品ページ
 - https://hacklog.jp/works/52150
 
+# デモ（YouTube）
+- プレゼンバトルの映像です。飲みながらの発表なのでカミカミです笑
+- 
+
 # 環境
 - Mac OS 10.12.3
 - Python2.7.13
